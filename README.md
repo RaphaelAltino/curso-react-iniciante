@@ -1,2 +1,4 @@
 # curso-react-iniciante
-Created with CodeSandbox
+
+
+Link para o projeto [aqui] (https://ezzyy0.csb.app/)
